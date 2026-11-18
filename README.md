@@ -1,4 +1,4 @@
-# DESN 368 portfolio
+# DESN 368 portfolio · Ally Holmes
 
 **Live site:** `https://allyholmes.github.io/desn368-portfolio/` (put your own address here once Pages is on)
 
